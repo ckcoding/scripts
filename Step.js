@@ -5,7 +5,6 @@
  * @Last Modified time: 2021-06-01 15:45:05
  */
 const axios = require('axios');
-const fs = require('fs')
 const qs = require('qs');
 const Koa = require('koa')
 const bodyParser = require('koa-bodyparser')
